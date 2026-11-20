@@ -15,6 +15,7 @@ void drawLine() {
     cout << "==================================================" << endl;
 }
 //cool
+//?????/
 void waitAndReturn() {
     cin.clear();
     cin.ignore(10000, '\n');
